@@ -35,7 +35,7 @@ public class SnakeYAMLTest {
 
     @Test
     public void test() throws Exception {
-        new YamlPropertySourceLoader().load("name", new ClassPathResource("/payload/yaml-payload.yml"), "");
+        new YamlPropertySourceLoader().load("name", new ClassPathResource("/payload/yaml-payload.yml"));
     }
 
     @Test
