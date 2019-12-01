@@ -4,8 +4,8 @@ Spring Boot Actuator + Spring Cloud Vul Env for RCE by modifying `spring.cloud.b
 
 # Branch
 
-- master: Spring Boot Actuator 1.5.22 + Spring Cloud Dalston.RELEASE
-- 2.2.1-cloud: Spring Boot Actuator 2.2.1 + Spring Cloud Hoxton.RELEASE
+- `master`: Spring Boot Actuator 1.5.22 + Spring Cloud Dalston.RELEASE
+- `2.2.1-cloud`: Spring Boot Actuator 2.2.1 + Spring Cloud Hoxton.RELEASE
 
 # Code
 
