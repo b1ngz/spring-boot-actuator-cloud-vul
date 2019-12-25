@@ -1,5 +1,8 @@
 # Introduction
 
+Paper [Exploit Spring Boot Actuator 之 Spring Cloud Env 学习笔记
+](https://mp.weixin.qq.com/s/rGRHb5IteCDAO6IMCwst3A)
+
 Spring Boot Actuator + Spring Cloud Vul Env for RCE by modifying `spring.cloud.bootstrap.location` in https://www.veracode.com/blog/research/exploiting-spring-boot-actuators
 
 # Branch
